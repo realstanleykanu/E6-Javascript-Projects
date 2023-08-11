@@ -1,2 +1,2 @@
-# E6-Javascript-Projects
+# ES6-Javascript-Projects
 Web development Fundamentals
